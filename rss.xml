@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tecnología Libre para la Educación Pública</title><link>http://somosazucar.org/</link><description>SomosAZUCAR</description><atom:link href="http://somosazucar.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 28 Sep 2016 06:52:24 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>"Physics with XO" by Guzmán Trinidad now available in English</title><link>http://somosazucar.org/posts/physics-with-xo-in-english/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;a href="https://www.gitbook.com/book/icarito/physics-with-xo/details"&gt;&lt;img src="http://somosazucar.org/galleries/cover_small.png" align="left"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Español a cont.)&lt;/em&gt; Our team would like to share with the community the &lt;a href="https://www.gitbook.com/book/icarito/physics-with-xo/details"&gt;immediate availability&lt;/a&gt; of Guzmán Trinidad's "Physics with XO", a book that includes 30 experimental activities for the Physics Laboratory that utilize the XO laptop's capabilities to attach sensors and create interactive experiences.&lt;/p&gt;
+&lt;p&gt;We believe that knowledge production should be as widely distributed as creativity is, and so we are proud to have been able to help to disseminate Guzmán's work for use in Rwanda, Philippines and other places where English is spoken. The original book was written and published in Uruguay in 2011. This translation was made possible thanks to the kind sponsorship of Tony Anderson.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you find anything that can be improved, &lt;a href="https://github.com/icarito/physics-with-xo/issues/new"&gt;do let us know&lt;/a&gt;; it will be appreciated.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://sites.google.com/site/solymar1fisica/fisica-con-xo-investigacion-/fisica-con-xo-el-libro"&gt;&lt;img src="http://somosazucar.org/galleries/cover_orig_small.png" align="right"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A nuestro equipo le es grato compartir con la comunidad la disponibilidad inmediata del libro de Guzmán Trinidad "Física con XO". La obra incluye 30 actividades experimentales para el laboratorio de Física que emplean las características de la XO para conectar sensores y crear experiencias interactivas.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Creemos que la producción del conocimiento debiera de ser tan diversa como lo es la creatividad humana, luego estamos orgullosos de haber tenido la posibilidad de diseminar la obra de Guzmán para su uso en Ruanda, Filipinas y otros sitios donde se hable Inglés. El &lt;a href="https://sites.google.com/site/solymar1fisica/fisica-con-xo-investigacion-/fisica-con-xo-el-libro"&gt;libro original&lt;/a&gt; fue escrito y publicado en Uruguay en 2011. Esta traducción has sido posible gracias al gentil auspicio de Tony Anderson.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://somosazucar.org/posts/physics-with-xo-in-english/index.html</guid><pubDate>Mon, 04 Jul 2016 05:15:54 GMT</pubDate></item><item><title>Celebrando el Día de la Libertad del Software en Puerto Maldonado</title><link>http://somosazucar.org/posts/celebrando-el-dia-de-la-libertad-del-software-en-puerto-maldonado/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;En participación del Día Internacional del Software Libre, el equipo de investigación y desarrollo SomosAZUCAR convoca a la ciudadanía a enterarse de la tecnología que tiene a su libre disposición, la cual puede utilizar hoy mismo para llevar vidas más elevadas, soberanas y significativas.&lt;/p&gt;
+&lt;p&gt;Compartiremos todo tipo de Software Libre que consideramos útil, desde recursos educativos, herramientas científicas, de diseño gráfico, arquitectura, estadística, programación, incluso videojuegos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lugar: UNAMAD Puerto Maldonado - Auditorio Principal&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fecha: Sábado 19 de Septiembre de 2015 - 9:00 AM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Software Freedom Day 2015 Puerto Maldonado" src="http://somosazucar.org/galleries/Eventos/afiche_sfd2015_pto.png"&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;9:00-10:00 Presentación &lt;em&gt;"Software Libre: Una opción Familiar"&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;10:00-10:30 Preguntas y Respuestas&lt;/li&gt;
+&lt;li&gt;10:30-12:00 Exhibición / Taller de Instalación&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid>http://somosazucar.org/posts/celebrando-el-dia-de-la-libertad-del-software-en-puerto-maldonado/index.html</guid><pubDate>Tue, 15 Sep 2015 07:05:09 GMT</pubDate></item><item><title>Colección "Taller del Artesano"</title><link>http://somosazucar.org/posts/2015/04/23/coleccion-taller-del-artesano/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;El año pasado estuvimos en Colombia realizando la primera versión del "Taller de Artesanía en Programación de Videojuegos".&lt;/p&gt;
+&lt;p&gt;Este taller tuvo como objetivo la publicación de 5 juegos realizados en conjunto con los niños.&lt;/p&gt;
+&lt;p&gt;Para la realización del taller se elaboró un entorno de desarrollo visual llamado "Taller del Artesano" el cual permite inspeccionar y modificar el código en ejecución de la actividad/videojuego, alentando a los aprendices a realizar cambios e implementar mejoras rapidamente.&lt;/p&gt;
+&lt;p&gt;Los juegos originales publicados con esta característica han sido reunidos en una colección en la biblioteca de actividades de Sugar, vale la pena mirarla.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p style="text-align: center"&gt;&lt;a href="http://activities.sugarlabs.org/es-ES/sugar/collection/artesania"&gt;http://activities.sugarlabs.org/es-ES/sugar/collection/artesania&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center"&gt;&lt;a href="http://activities.sugarlabs.org/es-ES/sugar/collection/artesania"&gt;&lt;img class="size-full wp-image-543 aligncenter" title="Neko_animation_steps_-_falling_asleep" src="http://somosazucar.org/files/2015/04/Neko_animation_steps_-_falling_asleep.png" alt="" width="128" height="96"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Estos juegos utilizan una biblioteca especial llamada Spyral, como una forma sencilla de aproximarse desde la programación orientada a objetos, a Pygame.&lt;/p&gt;
+&lt;p&gt;Para el inicio del taller nos valimos de las guías publicadas por Flavio Danesse (Python Joven Uruguay), adaptadas a nuestro objetivo, y también elaboramos guías especiales para las temáticas específicas de videojuegos. Todas estas guías se encuentran publicadas en &lt;a href="http://pe.sugarlabs.org/ir/Python"&gt;nuestra wiki&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;La que más popular de todas hasta ahora es &lt;a href="http://activities.sugarlabs.org/es-ES/sugar/addon/4741"&gt;Colgadito&lt;/a&gt;, con mas de 38.000 descargas.&lt;/p&gt;
+&lt;p style="text-align: center"&gt;&lt;a href="http://activities.sugarlabs.org/es-ES/sugar/collection/artesania"&gt;&lt;img class="aligncenter size-medium wp-image-544" title="Captura de pantalla - 220414 - 12:48:05" src="http://somosazucar.org/files/2015/04/Captura-de-pantalla-220414-124805-300x168.png" alt="" width="300" height="168"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;La creación de videojuegos es una expresión artística y cultural, una excelente oportunidad para apropiarse de la tecnología de forma divertida, al tiempo que se transmite un mensaje. En el caso de estos juegos, están diseñados para tratar sobre temas valiosos, por ejemplo, los derechos humanos, el autoestima, el manejo de conflictos, etc.&lt;/p&gt;
+&lt;p&gt;Mi favorita es &lt;a href="http://activities.sugarlabs.org/es-ES/sugar/addon/4743"&gt;Neko&lt;/a&gt;, el gato sabio.&lt;/p&gt;
+&lt;p&gt;Esto va alineado con un ideal que siempre compartimos donde vayamos: la tecnología, &lt;em&gt;con un propósito&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>category</category><guid>http://somosazucar.org/posts/2015/04/23/coleccion-taller-del-artesano/index.html</guid><pubDate>Thu, 23 Apr 2015 09:33:21 GMT</pubDate></item><item><title>Faircoin accepted / Aceptamos Faircoin</title><link>http://somosazucar.org/posts/2015/04/13/faircoin-accepted-aceptamos-faircoin/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;(español al pie)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://somosazucar.org/files/2015/04/FairCoinLogo360.png"&gt;&lt;img class="size-medium wp-image-524 alignleft" title="FairCoinLogo360" src="http://somosazucar.org/files/2015/04/FairCoinLogo360-300x300.png" alt="" width="240" height="240"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In order to ease the process of making donations to help our team's activities and &lt;a href="http://pe.sugarlabs.org/ir/Proyectos"&gt;projects&lt;/a&gt;, we have activated an account for donations in &lt;a href="http://getfaircoin.net/"&gt;Faircoin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Faircoin is a digital cryptographic currency based on the Bitcoin technology, backed up by the Faircoop cooperative. Faircoin is a model of technology designed to improve people's lives and guarantee their freedom.&lt;/p&gt;
+&lt;p&gt;It is possible to acquire Faircoins in different ways, even with a credit card, therefore we have disabled traditional means of donations.&lt;/p&gt;
+&lt;p&gt;If you wish to make recurrent donations or have a second alternative, please look at our &lt;a href="http://somosazucar.org/te-gusta-lo-que-hacemos/"&gt;donations page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;pre&gt;Our faircoin address is: fQBee2AbJQTkHsYPPu9ve5DAsDzjym7B5Y&lt;/pre&gt;
+&lt;p&gt;Para facilitar el proceso de realizar donaciones para ayudar en las actividades y &lt;a href="http://pe.sugarlabs.org/ir/Proyectos"&gt;proyectos&lt;/a&gt; del equipo, hemos activado una cuenta para donaciones mediante &lt;a href="http://getfaircoin.net/"&gt;Faircoin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Faircoin es una moneda digital criptográfica basada en la tecnología de Bitcoin, que se encuentra respaldada por la cooperativa Faircoop. Faircoin es un modelo de tecnología diseñado para mejorar la vida y garantizar la libertad de las personas.&lt;/p&gt;
+&lt;p&gt;Es posible adquirir Faircoins de diferentes maneras incluso con una tarjeta de crédito, de modo que hemos desactivado las donaciones tradicionales.&lt;/p&gt;
+&lt;p&gt;Si deseas hacer donaciones recurrentes o una segunda alternativa, porfavor consulte nuestra &lt;a href="http://somosazucar.org/te-gusta-lo-que-hacemos/"&gt;página de donaciones&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Desde siempre muchas gracias por sus generosas contribuciones.&lt;/p&gt;
+&lt;pre&gt;Nuestra dirección de faircoin es: fQBee2AbJQTkHsYPPu9ve5DAsDzjym7B5Y&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><category>category</category><guid>http://somosazucar.org/posts/2015/04/13/faircoin-accepted-aceptamos-faircoin/index.html</guid><pubDate>Tue, 14 Apr 2015 02:51:54 GMT</pubDate></item><item><title>Perú, un despliegue innovador</title><link>http://somosazucar.org/posts/2014/09/19/peru-un-despliegue-innovador/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;img class="size-full wp-image-479 alignleft" style="border: 0px" title="¡celebramos 20000 usuarios!" src="http://somosazucar.org/files/2014/09/20000.png" alt="" width="699" height="159"&gt;
+&lt;p&gt;Somos Azúcar y la Dirección General de Tecnologías Educativas del Ministerio de Educación de Perú, colaboran desde 2012 en el proyecto de diseño, confección y soporte de una imagen de sistema operativo "customizada" para las máquinas XO distribuidas en Perú.&lt;/p&gt;
+&lt;p&gt;A ésta imagen le hemos llamado Hexoquinasa, nombre de una enzima del cuerpo humano que ayuda a digerir el azúcar :O)&lt;/p&gt;
+&lt;p&gt;El objetivo del proyecto Hexoquinasa es optimizar la experiencia de los usuarios de Sugar en la región, inicialmente aquellos localizados en Perú. Con esta directriz en mente se trabajó en una imagen instalable en las laptops XO, que incluyera una versión estable y actualizada del software Sugar, las respectivas traducciones de Sugar a Quechua y Aymara y especialmente un acceso desde el mismo Sistema Operativo a la Red Azúcar; una red socio-educativa descentralizada que permite a los educandos compartir y colaborar en la produccion de recursos educativos abiertos (REA).&lt;/p&gt;
+&lt;p&gt;El proceso de distribución de Hexoquinasa inició en 2014 con el año escolar. En lo que va corrido del año y de manera orgánica, la Red Azúcar ha sido escenario de la creación de cientos de contextos, recursos y artefactos en su mayoría relacionados con el cuidado del medio ambiente y el fomento de buenas prácticas en las Instituciones Educativas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hoy 19 de Septiembre, en la comunidad de desarrollo estamos celebrando los primeros 20.000 usuarios beneficiarios de la Red, que gracias a la apropiación de estudiantes, profesores y padres de familia, se ha convertido en un valioso espacio de libre intercambio de conocimiento y un verdadero ejemplo a seguir para los demás despliegues de la región.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aquí les comparto algunos de los contextos que más me han impactado:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://network.sugarlabs.org/article/202e21543dc811e48a20525400e4dcb5"&gt;La Canción Te quiero, te cuido&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://network.sugarlabs.org/article/a7502b283c6011e4bfcf525400e4dcb5"&gt;La Tierra, La vida es un regalo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://network.sugarlabs.org/article/cf44919a224911e495d2525400e4dcb5"&gt;Basta de Bullying!!!!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sobre los próximos pasos del proyecto&lt;/strong&gt;&lt;a href="http://network.sugarlabs.org/article/a7502b283c6011e4bfcf525400e4dcb5"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;La Red Azúcar está en continuo proceso de mejoramiento. Al ser un proyecto de espíritu comunitario, permite la integración de múltiples perfiles técnicos y pedagógicos en el proceso de aprendizaje de los educandos.&lt;/p&gt;
+&lt;p&gt;Con la ayuda de los docentes de Perú, hemos identificado varias funcionalidades candidatas a ser implementadas; desde la posibilidad de integrar recursos gráficos a los artículos de texto hasta la producción de imágenes con acceso a la Red Azúcar instalables en computadoras convencionales.&lt;/p&gt;
+&lt;p&gt;Sin embargo el paso más significativo para el proyecto Red Azúcar será la integración de nuevos despliegues que deseen formar parte de esta comunidad de libre intercambio de conocimiento.&lt;/p&gt;
+&lt;p&gt;En el desarrollo de Hexoquinasa se ha hecho un esfuerzo por atender las  necesidades de los diferentes actores del sistema educativo, llevando a cabo el desarrollo con una  metodología "abierta", tanto en su &lt;a href="http://pe.sugarlabs.org/ir/Proyecto%20Piloto%20Hexoquinasa"&gt;definición de objetivos&lt;/a&gt;, &lt;a href="http://tareas.somosazucar.org/hxp/index"&gt;seguimiento de incidencias&lt;/a&gt;, &lt;a href="http://git.sugarlabs.org/hexokinase/xo"&gt;publicación de código&lt;/a&gt;, y &lt;a href="http://network.sugarlabs.org/stats-viewer/"&gt;estadísticas de uso&lt;/a&gt;.&lt;/p&gt;
+&lt;div&gt;Si te interesa involucrarte con el diseño y desarrollo continuo de este proyecto, te recomendamos &lt;a href="https://groups.google.com/forum/#!forum/sugar-network"&gt;unirte al grupo&lt;/a&gt; de discusión "Sugar Network" y compartirnos tus propuestas.&lt;/div&gt;
+
+&lt;div&gt;Si eres miembro del equipo de soporte o administración de un despliegue y deseas explorar la imagen Hexoquinasa 1, puedes obtenerla en la &lt;a href="http://pe.sugarlabs.org/ir/Proyecto%20Piloto%20Hexoquinasa/Instalar"&gt;página de descargas&lt;/a&gt; del proyecto.&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><category>category</category><category>hexoquinasa</category><category>Peru</category><category>Red Azúcar</category><category>XO</category><guid>http://somosazucar.org/posts/2014/09/19/peru-un-despliegue-innovador/index.html</guid><pubDate>Sat, 20 Sep 2014 01:12:58 GMT</pubDate></item><item><title>Git para Sugar</title><link>http://somosazucar.org/posts/2014/08/29/git-para-sugar/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hace un mes leí un &lt;a href="http://therealkatie.net/blog/2014/jul/14/flask-git-easiest-workshop-ever/"&gt;artículo brillante&lt;/a&gt; de Katie Cunningham donde ella describía parte de su estrategia para realizar talleres de Python. Dedicándome últimamente con mucha pasión a esta actividad, pero con grupos objetivo diferentes (yo enseño a niños), tomé nota de sus experiencias y sobretodo me pareció que el uso que daba a la herramienta Git era brillante.&lt;/p&gt;
+&lt;p&gt;Katie sugiere que gran parte del tiempo en un taller de Python se "pierde" mientras los aprendices copian ejercicios. Git le permitiría empezar la sesión con una versión simple de un programa y luego pasar a la siguiente "en un paso", sin copiar, de esta manera invirtiendo el tiempo del aprendiz más bien en modificar cada versión subsiguiente y así comprender el funcionamiento del mismo, en vez de en la mecánica de escribir el programa en primer lugar.&lt;/p&gt;
+&lt;p&gt;Sin embargo para mí, el uso de Git en la terminal es todavía demasiado obtuso para poder enseñarlo efectivamente a niños. Los conceptos en sí son simples, pero la abstracción se me hace demasiada. Por eso es que empecé el desarrollo de una actividad de Sugar que facilite visualizar el historial de un proyecto, y en general trabajar con git. Mi principal inspiración es "Gitg" para gnome, pero me interesa realizar un trabajo de simplificación de los flujos de trabajo que se necesitan en el contexto de un taller de Python, como los que describe Katie.&lt;/p&gt;
+&lt;p&gt;De momento es solo un prototipo pero ya sirve para navegar el historial usando una barra de tiempo:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://somosazucar.org/files/2014/08/Captura-pantalla-de-_Fugit-Activity__1.png"&gt;&lt;img class="size-medium wp-image-467 alignnone" title="Captura pantalla de _Fugit Activity__1" src="http://somosazucar.org/files/2014/08/Captura-pantalla-de-_Fugit-Activity__1-300x163.png" alt="" width="300" height="163"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comparto anticipadamente para recibir comentarios e ideas.&lt;/p&gt;
+&lt;p&gt;Estoy documentando el proyecto en &lt;a href="http://pe.sugarlabs.org/ir/Git%20para%20Sugar"&gt;nuestra wiki&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>category</category><guid>http://somosazucar.org/posts/2014/08/29/git-para-sugar/index.html</guid><pubDate>Fri, 29 Aug 2014 09:26:48 GMT</pubDate></item><item><title>Análisis al borrador del Plan Vive Digital Colombia 2014-2018</title><link>http://somosazucar.org/posts/2014/08/07/analisis-al-borrador-del-plan-vive-digital-colombia-2014-2018/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Colombia ha publicado en borrador su estrategia Vive Digital 2014 - 2018, que dotará de notables laboratorios de informática a las bibliotecas e instituciones educativas de buena parte del país. Sin embargo, los usuarios de estos puntos no estarán utilizando tecnologías libres y apropiadas, que respeten sus derechos humanos de acceso a la información y privacidad, para acceder al mundo digital.&lt;/p&gt;
+&lt;!-- #toc, .toc, .mw-warning { border: 1px solid rgb(170, 170, 170); background-color: rgb(249, 249, 249); padding: 5px; font-size: 95%; }#toc h2, .toc h2 { display: inline; border: medium none; padding: 0px; font-size: 100%; font-weight: bold; }#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle { text-align: center; }#toc ul, .toc ul { list-style-type: none; list-style-image: none; margin-left: 0px; padding-left: 0px; text-align: left; }#toc ul ul, .toc ul ul { margin: 0px 0px 0px 2em; }#toc .toctoggle, .toc .toctoggle { font-size: 94%; }body { font-family: 'Sans'; color: rgb(0, 0, 0); widows: 2; font-style: normal; text-indent: 0in; font-variant: normal; font-weight: normal; font-size: 12pt; text-decoration: none; text-align: left; }table {  }td { border-collapse: collapse; text-align: left; vertical-align: top; }p, h1, h2, h3, li { color: rgb(0, 0, 0); font-family: 'Sans'; font-size: 12pt; text-align: left; } --&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;div&gt;
+&lt;p&gt;A diferencia de quienes continúan por mero hábito, estos iniciantes «ciudadanos del ciberespacio», &lt;em&gt;en su mayoría niños en instituciones educativas&lt;/em&gt;, serán expuestos a un sistema que los trata como consumidores, que los expone a publicidad, y cuyo funcionamiento necesariamente es misterioso y secreto. Desde Facebook hasta Office, todo el paquete está pensado para hacer de los usuarios «productores de contenido» y «consumidores de programas».&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- #toc, .toc, .mw-warning { border: 1px solid rgb(170, 170, 170); background-color: rgb(249, 249, 249); padding: 5px; font-size: 95%; }#toc h2, .toc h2 { display: inline; border: medium none; padding: 0px; font-size: 100%; font-weight: bold; }#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle { text-align: center; }#toc ul, .toc ul { list-style-type: none; list-style-image: none; margin-left: 0px; padding-left: 0px; text-align: left; }#toc ul ul, .toc ul ul { margin: 0px 0px 0px 2em; }#toc .toctoggle, .toc .toctoggle { font-size: 94%; }body { font-family: 'Sans'; color: rgb(0, 0, 0); widows: 2; font-style: normal; text-indent: 0in; font-variant: normal; font-weight: normal; font-size: 12pt; text-decoration: none; text-align: left; }table {  }td { border-collapse: collapse; text-align: left; vertical-align: top; } --&gt;
+
+&lt;div&gt;
+
+
+
+Debe hacerse todo lo posible para que exista una solución alternativa a aquellas planteadas desde el actual modelo privativo, es decir aquel modelo que priva de libertad a los usuarios, poniéndolos a merced de corporaciones multinacionales y agencias de espionaje.
+
+
+
+&lt;/div&gt;
+
+&lt;!-- #toc, .toc, .mw-warning { border: 1px solid rgb(170, 170, 170); background-color: rgb(249, 249, 249); padding: 5px; font-size: 95%; }#toc h2, .toc h2 { display: inline; border: medium none; padding: 0px; font-size: 100%; font-weight: bold; }#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle { text-align: center; }#toc ul, .toc ul { list-style-type: none; list-style-image: none; margin-left: 0px; padding-left: 0px; text-align: left; }#toc ul ul, .toc ul ul { margin: 0px 0px 0px 2em; }#toc .toctoggle, .toc .toctoggle { font-size: 94%; }body { font-family: 'Sans'; color: rgb(0, 0, 0); widows: 2; font-style: normal; text-indent: 0in; font-variant: normal; font-weight: normal; font-size: 12pt; text-decoration: none; text-align: left; }table {  }td { border-collapse: collapse; text-align: left; vertical-align: top; } --&gt;
+
+&lt;div&gt;&lt;!-- #toc, .toc, .mw-warning { border: 1px solid rgb(170, 170, 170); background-color: rgb(249, 249, 249); padding: 5px; font-size: 95%; }#toc h2, .toc h2 { display: inline; border: medium none; padding: 0px; font-size: 100%; font-weight: bold; }#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle { text-align: center; }#toc ul, .toc ul { list-style-type: none; list-style-image: none; margin-left: 0px; padding-left: 0px; text-align: left; }#toc ul ul, .toc ul ul { margin: 0px 0px 0px 2em; }#toc .toctoggle, .toc .toctoggle { font-size: 94%; }body { font-family: 'Sans'; color: rgb(0, 0, 0); widows: 2; font-style: normal; text-indent: 0in; font-variant: normal; font-weight: normal; font-size: 12pt; text-decoration: none; text-align: left; }table {  }td { border-collapse: collapse; text-align: left; vertical-align: top; } --&gt;
+
+&lt;div&gt;
+
+
+
+Al parecer, el motivo de esta situación es que la ﻿Ley 1346 de 2009 determina que debe haber software para accesibilidad de no-videntes en los servicios tecnológicos del estado. Por ello, se negoció por 4 años una «licencia país» del software privativo JAWS, el cual sólo funciona en Windows, y también Microsoft donará a cada punto una cantidad de licencias de algunos programas.
+
+
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Existen soluciones alternativas, que sí respetan la libertad de los usuarios y la soberanía tecnológica de la nación. Por ejemplo &lt;a href="http://sonargnulinux.com/"&gt;Sonar GNU/Linux&lt;/a&gt; es una distribución modernísima que integra el lector de pantalla libre ORCA.&lt;/p&gt;
+&lt;!-- #toc, .toc, .mw-warning { border: 1px solid rgb(170, 170, 170); background-color: rgb(249, 249, 249); padding: 5px; font-size: 95%; }#toc h2, .toc h2 { display: inline; border: medium none; padding: 0px; font-size: 100%; font-weight: bold; }#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle { text-align: center; }#toc ul, .toc ul { list-style-type: none; list-style-image: none; margin-left: 0px; padding-left: 0px; text-align: left; }#toc ul ul, .toc ul ul { margin: 0px 0px 0px 2em; }#toc .toctoggle, .toc .toctoggle { font-size: 94%; }body { font-family: 'Sans'; color: rgb(0, 0, 0); widows: 2; font-style: normal; text-indent: 0in; font-variant: normal; font-weight: normal; font-size: 12pt; text-decoration: none; text-align: left; }table {  }td { border-collapse: collapse; text-align: left; vertical-align: top; }p, h1, h2, h3, li { color: rgb(0, 0, 0); font-family: 'Sans'; font-size: 12pt; text-align: left; } --&gt;
+
+&lt;div&gt;
+
+&lt;p dir="ltr"&gt;La ley 1618 de Febrero de 2013 que determina que &lt;strong&gt;«Art. 16 - 1. El Ministerio de Tecnologías de la Información y las Comunicaciones TIC, adelantará un proyecto que permita masificar la utilización de software libre de los programas para personas con discapacidad.»&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;/div&gt;
+
+&lt;p&gt;Ojalá que lo que dicta la Ley se integre a la estrategia y se traduzca en la mejora significativa y pertinente de las herramientas de accesibilidad disponibles en software libre para los ciudadanos no-videntes de Colombia, un proyecto viable en el plazo planteado de cuatro años (2014-2018).&lt;/p&gt;
+&lt;!-- #toc, .toc, .mw-warning { border: 1px solid rgb(170, 170, 170); background-color: rgb(249, 249, 249); padding: 5px; font-size: 95%; }#toc h2, .toc h2 { display: inline; border: medium none; padding: 0px; font-size: 100%; font-weight: bold; }#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle { text-align: center; }#toc ul, .toc ul { list-style-type: none; list-style-image: none; margin-left: 0px; padding-left: 0px; text-align: left; }#toc ul ul, .toc ul ul { margin: 0px 0px 0px 2em; }#toc .toctoggle, .toc .toctoggle { font-size: 94%; }body { font-family: 'Sans'; color: rgb(0, 0, 0); widows: 2; font-style: normal; text-indent: 0in; font-variant: normal; font-weight: normal; font-size: 12pt; text-decoration: none; text-align: left; }table {  }td { border-collapse: collapse; text-align: left; vertical-align: top; }p, h1, h2, h3, li { color: rgb(0, 0, 0); font-family: 'Sans'; font-size: 12pt; text-align: left; } --&gt;
+
+&lt;div&gt;
+
+
+
+Será una verdadera contribución de Colombia para la apropiación tecnológica no solo de sus propios ciudadanos, sino también la de los no-videntes de todo mundo.
+
+
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/See_No_Evil%2C_Hear_No_Evil%2C_Speak_No_Evil.jpg/320px-See_No_Evil%2C_Hear_No_Evil%2C_Speak_No_Evil.jpg"&gt;&lt;img class="   " src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/See_No_Evil%2C_Hear_No_Evil%2C_Speak_No_Evil.jpg/320px-See_No_Evil%2C_Hear_No_Evil%2C_Speak_No_Evil.jpg" alt="" width="151" height="100"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tener tecnología libre y apropiada en las instituciones del país contribuirá a crear una sociedad más justa, y proporcionará a los ciudadanos de verdaderas herramientas para la creación de obras y artefactos digitales de todo tipo, sin involucrarlos en una relación de dependencia con determinados proveedores o empresas.&lt;/p&gt;
+&lt;p&gt;Creo que, sin lugar a dudas, tarde o temprano, encontraremos la forma de que todos los ciudadanos podamos ejercer nuestra informática y, por lo tanto ciudadanía, en libertad e igualdad de derechos.&lt;/p&gt;
+&lt;p&gt;Sebastián Silva&lt;/p&gt;
+&lt;div class="mceTemp"&gt;&lt;dl&gt; &lt;dt&gt;&lt;a href="http://somosazucar.org/files/2014/08/avatar2013.jpg"&gt;&lt;img class="size-thumbnail wp-image-447 " title="avatar2013" src="http://somosazucar.org/files/2014/08/avatar2013-150x150.jpg" alt="" width="90" height="90"&gt;&lt;/a&gt;&lt;/dt&gt; &lt;/dl&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><category>category</category><guid>http://somosazucar.org/posts/2014/08/07/analisis-al-borrador-del-plan-vive-digital-colombia-2014-2018/index.html</guid><pubDate>Thu, 07 Aug 2014 09:55:44 GMT</pubDate></item><item><title>Sugar Camp Chía 2014 - Fechas Actualizadas: 17, 18 y 19 de Julio</title><link>http://somosazucar.org/posts/2014/06/19/sugar-camp-chia-2014-fechas-actualizadas-17-18-y-19-de-julio/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p style="text-align: center"&gt;&lt;a href="http://somosazucar.org/files/2014/06/logo_sugarcamp.png"&gt;&lt;img class="size-full wp-image-431 aligncenter" title="logo_sugarcamp" src="http://somosazucar.org/files/2014/06/logo_sugarcamp.png" alt="" width="650" height="129"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GRAN CONVOCATORIA GRAN *&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;/&lt;em&gt; english below &lt;/em&gt;/&lt;/p&gt;
+&lt;p&gt;En menos de un ciclo lunar (28 días), nos daremos cita para el primer encuentro de semilleros de niños y niñas programadores "Sugar Camp Chía 2014".&lt;/p&gt;
+&lt;p&gt;Esta maratón de trabajo colaborativo tiene como principal objetivo la confección colaborativa de una colección de juegos transformadores, no violentos, orientados a empoderar a los aprendices más pequeños de Sugar como agentes de cambio para sus comunidades.&lt;/p&gt;
+&lt;p&gt;La cita es en la ciudad de la luna, Chía, Cundinamarca, Colombia, (unos 30km al Norte de Bogotá), los días 17, 18 y 19 de Julio del presente año.&lt;/p&gt;
+&lt;p&gt;Invitamos a la comunidad nacional e internacional de artistas, educadores, programadores y ciudadanos para formar parte de este equipo de trabajo multidisciplinario, aprender un montón los unos de los otros y a hacer nuevos amigos.&lt;/p&gt;
+&lt;p&gt;Invitados de Honor: Python Joven Uruguay&lt;/p&gt;
+&lt;p&gt;Organiza: SomosAzúcar + Proyecto Transformando OLPC Colombia&lt;/p&gt;
+&lt;p&gt;Para colaborar con el comité organizador (Aura, Laura, Sebastian), escribir a transformando@somosazucar.org&lt;/p&gt;
+&lt;p&gt;Para mayores informaciones e inscripciones:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://camp.laboratoriosazucar.org/"&gt; http://camp.laboratoriosazucar.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;¡Te esperamos!&lt;/p&gt;
+&lt;p&gt;/&lt;em&gt; ENGLISH HERE &lt;/em&gt;/&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CALL FOR PARTICIPATION CALL *&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In less than a lunar cycle (28 days), we will get together for the first encounter of programmer boys and girls "Sugar Camp Chía 2014".&lt;/p&gt;
+&lt;p&gt;This collaborative work marathon has as main objective to produce a collection of transformative games, non violent, aimed at empowering the youngest learners of Sugar as agents of change for their communities.&lt;/p&gt;
+&lt;p&gt;The event will be in the city of the moon, Chía, Cundinamarca, Colombia (some 30km north of Bogotá), on the 17th, 18th, and 19th of July of this year.&lt;/p&gt;
+&lt;p&gt;We invite the national and international community of a rtists, educators, developers and citizens to be a part of this multi-disciplinary working team, to learn a lot from each other and make new friends.&lt;/p&gt;
+&lt;p&gt;Guests of Honor: Python Joven Uruguay&lt;/p&gt;
+&lt;p&gt;Organisers: SomosAzucar + Proyecto Transformando OLPC Colombia&lt;/p&gt;
+&lt;p&gt;To collaborate with the organising comitee (Aura, Laura, Sebastian), write to transformando@somosazucar.org&lt;/p&gt;
+&lt;p&gt;For further information and event registration:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://camp.laboratoriosazucar.org/"&gt; http://camp.laboratoriosazucar.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;¡We are waiting for you!&lt;/p&gt;&lt;/div&gt;</description><category>category</category><guid>http://somosazucar.org/posts/2014/06/19/sugar-camp-chia-2014-fechas-actualizadas-17-18-y-19-de-julio/index.html</guid><pubDate>Fri, 20 Jun 2014 00:47:39 GMT</pubDate></item><item><title>[¡fecha actualizada!] 17, 18 y 19 de Julio 2014: Sugar Camp Chia, Colombia</title><link>http://somosazucar.org/posts/2014/05/25/17-al-1-de-julio-2014-sugar-camp-chia-colombia/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;strong&gt;Invitación&lt;/strong&gt;
+&lt;div&gt;&lt;span style="color: #0000ee"&gt;&lt;a href="http://somosazucar.org/files/2014/05/semillero_ninos_proegramadores.jpg"&gt;&lt;img class="size-full wp-image-415 alignright" title="Taller de Artesanía en Programacíon de Videojuegos" src="http://somosazucar.org/files/2014/05/semillero_ninos_proegramadores.jpg" alt="" width="576" height="432"&gt;&lt;/a&gt;&lt;/span&gt;Dando cierre al l Taller de Artesanía en Programación de Videojuegos en Python para niños realizado por Somos Azúcar en el marco del Proyecto de Innovación Social Transformando, OLPC Colombia y Sugar Labs Colombia convocan a la comunidad técnica, artística y educativa Colombiana y extranjera, a hacer parte del equipo de desarrollo y soporte de la I Compilación de video juegos "transformadores" para los usuarios de Sugar; #TransformandoChia2014.
+
+
+
+Más información en la wiki del evento en la página oficial: &lt;a href="http://pe.sugarlabs.org/ir/SugarCampChia2014"&gt;http://camp.laboratoriosazucar.org/&lt;/a&gt; &lt;hr&gt;&lt;strong&gt;Organiza&lt;/strong&gt;: Sugar Labs Colombia + SomosAzucar.Org + OLPC Proyecto Transformando
+
+
+
+&lt;strong&gt;En colaboración con&lt;/strong&gt;: Python Joven Uruguay
+
+
+
+&lt;strong&gt;Con el auspicio de&lt;/strong&gt;: Agencia Nacional para la Superación de la Pobreza Extrema, la Alcaldía Municipal de Chía, One Laptop per Child y Sugar Labs (por confirmar).
+
+
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><category>category</category><guid>http://somosazucar.org/posts/2014/05/25/17-al-1-de-julio-2014-sugar-camp-chia-colombia/index.html</guid><pubDate>Sun, 25 May 2014 07:46:28 GMT</pubDate></item><item><title>Aprende a Volar con Python</title><link>http://somosazucar.org/posts/2014/05/12/aprende-a-volar-con-python/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;a href="http://xkcd.com/353/"&gt;&lt;img class="size-medium wp-image-405  alignright" title="Puedes volar" src="http://somosazucar.org/files/2014/05/Somosazucar-python1-300x166.png" alt="" width="300" height="166"&gt;&lt;/a&gt;Estuvimos compartiendo con la comunidad en &lt;a href="http://www.flisolbogota.org/"&gt;FLISOL Bogotá 2014&lt;/a&gt;, muy contentos de ser bien recibidos en tan magnífico evento.
+&lt;p&gt;Mandamos a hacer algunas calcomanías y lamentablemente les cortaron la nota de licencia por lo que quisimos aclarar que la caricatura de la calcomanía es &lt;a href="http://xkcd.com/353/"&gt;una obra bajo licencia CC-BY-NC 2.5 de XKCD.Org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Aprender Python es aprender a comunicarse con la computadora a un nivel profundo, aprender a expresar ideas y moldear el sistema a tu parecer. Aprender a programar es adquirir superpoderes y sobretodo una gran responsabilidad pues el futuro de nuestra sociedad en gran medida estará en tus manos. Sugar es un gran entorno para aprender Python pero puedes hacerlo desde cualquier computadora, puedes empezar de los &lt;a href="http://network.sugarlabs.org/context/artifacts/3d5156a0aa2211e381ab525400e4dcb5?page=1"&gt;diversos recursos disponibles&lt;/a&gt;, lo único que necesitas es una terminal y un editor de textos.&lt;/p&gt;
+&lt;p&gt;En los próximos días estaremos compartiendo guías de aprendizaje y herramientas para aprender a programar en Python, con un énfasis en la programación  de videojuegos artesanales.&lt;/p&gt;
+&lt;p&gt;¡Anímate a aprender y a compartir tus creaciones!&lt;/p&gt;&lt;/div&gt;</description><category>category</category><guid>http://somosazucar.org/posts/2014/05/12/aprende-a-volar-con-python/index.html</guid><pubDate>Tue, 13 May 2014 03:52:51 GMT</pubDate></item></channel></rss>

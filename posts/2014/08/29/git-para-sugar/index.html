@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns#
+article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Git para Sugar | Tecnología Libre para la Educación Pública</title>
+<link href="../../../../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<meta content="#5670d4" name="theme-color">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../../../rss.xml">
+<link rel="canonical" href="http://somosazucar.org/posts/2014/08/29/git-para-sugar/index.html">
+<!--[if lt IE 9]><script src="../../../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="equipo I+D somosazucar">
+<link rel="prev" href="../../07/analisis-al-borrador-del-plan-vive-digital-colombia-2014-2018/index.html" title="Análisis al borrador del Plan Vive Digital Colombia 2014-2018" type="text/html">
+<link rel="next" href="../../../09/19/peru-un-despliegue-innovador/index.html" title="Perú, un despliegue innovador" type="text/html">
+<meta property="og:site_name" content="Tecnología Libre para la Educación Pública">
+<meta property="og:title" content="Git para Sugar">
+<meta property="og:url" content="http://somosazucar.org/posts/2014/08/29/git-para-sugar/index.html">
+<meta property="og:description" content="Hace un mes leí un artículo brillante de Katie Cunningham donde ella describía parte de su estrategia para realizar talleres de Python. Dedicándome últimamente con mucha pasión a esta actividad, pero ">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2014-08-29T04:26:48-05:00">
+<meta property="article:tag" content="category">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<!-- Menubar -->
+
+<nav class="navbar navbar-inverse navbar-static-top"><div class="container">
+<!-- This keeps the margins nice -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="http://somosazucar.org/">
+                <img src="../../../../../logo_trans.png" alt="Tecnología Libre para la Educación Pública" id="logo"><span id="blog-title">Tecnología Libre para la Educación Pública</span>
+            </a>
+        </div>
+<!-- /.navbar-header -->
+        <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
+            <ul class="nav navbar-nav">
+<li>
+<a href="../../../../../stories/about/">Quienes somos</a>
+                </li>
+<li>
+<a href="http://pe.sugarlabs.org/ir/Proyectos">Nuestros Proyectos</a>
+                </li>
+<li>
+<a href="../../../../../stories/te-gusta-lo-que-hacemos/">Apóyanos</a>
+                </li>
+<li>
+<a href="http://pe.sugarlabs.org/ir/">Wiki Laboratorios Azúcar</a>
+                </li>
+<li>
+<a href="http://network.sugarlabs.org/about/?returnto=http://network.sugarlabs.org/">Demo Red Azúcar</a>
+                </li>
+<li>
+<a href="http://chat.somosazucar.org/">Chat #somosazucar</a>
+                </li>
+<li>
+<a href="http://lists.sugarlabs.org/listinfo/sugar-sur">Lista sugar-sur</a>
+                </li>
+<li>
+<a href="../../../../../archive.html">Histórico</a>
+
+                
+            </li>
+</ul>
+<ul class="nav navbar-nav navbar-right"></ul>
+</div>
+<!-- /.navbar-collapse -->
+    </div>
+<!-- /.container -->
+</nav><!-- End of Menubar --><div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        <div class="row">
+            
+<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="#" class="u-url">Git para Sugar</a></h1>
+
+        <div class="metadata">
+            <p class="byline author vcard"><span class="byline-name fn">
+                    equipo I+D somosazucar
+            </span></p>
+            <p class="dateline"><a href="#" rel="bookmark"><time class="published dt-published" datetime="2014-08-29T04:26:48-05:00" itemprop="datePublished" title="2014-08-29 04:26">2014-08-29 04:26</time></a></p>
+                <p class="commentline">
+            
+        </p>
+</div>
+        
+    </header><div class="e-content entry-content" itemprop="articleBody text">
+    <div>
+<p></p>
+<p>Hace un mes leí un <a href="http://therealkatie.net/blog/2014/jul/14/flask-git-easiest-workshop-ever/">artículo brillante</a> de Katie Cunningham donde ella describía parte de su estrategia para realizar talleres de Python. Dedicándome últimamente con mucha pasión a esta actividad, pero con grupos objetivo diferentes (yo enseño a niños), tomé nota de sus experiencias y sobretodo me pareció que el uso que daba a la herramienta Git era brillante.</p>
+<p>Katie sugiere que gran parte del tiempo en un taller de Python se "pierde" mientras los aprendices copian ejercicios. Git le permitiría empezar la sesión con una versión simple de un programa y luego pasar a la siguiente "en un paso", sin copiar, de esta manera invirtiendo el tiempo del aprendiz más bien en modificar cada versión subsiguiente y así comprender el funcionamiento del mismo, en vez de en la mecánica de escribir el programa en primer lugar.</p>
+<p>Sin embargo para mí, el uso de Git en la terminal es todavía demasiado obtuso para poder enseñarlo efectivamente a niños. Los conceptos en sí son simples, pero la abstracción se me hace demasiada. Por eso es que empecé el desarrollo de una actividad de Sugar que facilite visualizar el historial de un proyecto, y en general trabajar con git. Mi principal inspiración es "Gitg" para gnome, pero me interesa realizar un trabajo de simplificación de los flujos de trabajo que se necesitan en el contexto de un taller de Python, como los que describe Katie.</p>
+<p>De momento es solo un prototipo pero ya sirve para navegar el historial usando una barra de tiempo:</p>
+<p><a href="../../../../../files/2014/08/Captura-pantalla-de-_Fugit-Activity__1.png"><img class="size-medium wp-image-467 alignnone" title="Captura pantalla de _Fugit Activity__1" src="../../../../../files/2014/08/Captura-pantalla-de-_Fugit-Activity__1-300x163.png" alt="" width="300" height="163"></a></p>
+<p>Comparto anticipadamente para recibir comentarios e ideas.</p>
+<p>Estoy documentando el proyecto en <a href="http://pe.sugarlabs.org/ir/Git%20para%20Sugar">nuestra wiki</a>.</p>
+</div>
+    </div>
+    <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
+<li><a class="tag p-category" href="../../../../../categories/category/index.html" rel="tag">category</a></li>
+        </ul>
+<ul class="pager hidden-print">
+<li class="previous">
+                <a href="../../07/analisis-al-borrador-del-plan-vive-digital-colombia-2014-2018/index.html" rel="prev" title="Análisis al borrador del Plan Vive Digital Colombia 2014-2018">Publicación anterior</a>
+            </li>
+            <li class="next">
+                <a href="../../../09/19/peru-un-despliegue-innovador/index.html" rel="next" title="Perú, un despliegue innovador">Siguiente publicación</a>
+            </li>
+        </ul></nav></aside><section class="comments hidden-print"><h2>Comentarios</h2>
+        
+        </section></article>
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Obra © 2016         <a href="mailto:sebastian@fuentelibre.org">equipo I+D somosazucar</a> - Implementado con <a href="https://getnikola.com" rel="nofollow">Nikola</a><br><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ar/">
+<img alt="Creative Commons License BY-NC-SA" style="border-width:0; margin-bottom:12px;" src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../../../../assets/js/all-nocdn.js"></script><script src="../../../../../assets/js/colorbox-i18n/jquery.colorbox-es.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
+    moment.locale("es");
+    fancydates(0, "YYYY-MM-DD HH:mm");
+    </script><!-- end fancy dates -->
+</body>
+</html>

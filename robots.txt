@@ -1,0 +1,4 @@
+Sitemap: http://somosazucar.org/sitemapindex.xml
+
+User-Agent: *
+Host: somosazucar.org

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tecnología Libre para la Educación Pública (actualizaxo)</title><link>http://somosazucar.org/</link><description></description><atom:link href="http://somosazucar.org/categories/actualizaxo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 28 Sep 2016 06:52:24 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>PROYECTO PILOTO HEXOQUINASA: ACTUALIZA XO</title><link>http://somosazucar.org/posts/2012/07/18/actualiza-xo/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Entrega V0.4&lt;/p&gt;
+&lt;p&gt;Comunicamos  a la comunidad de docentes de aulas de innovación pedagógica, docentes  de acompañamiento tecnológico, docentes en general, padres de familia,  directores y ciudadanos interesados en TIC que a partir de la fecha está  disponible para descargar, instalar y testear la version &lt;em&gt;alfa&lt;/em&gt; de &lt;strong&gt;HEXOQUINASA&lt;/strong&gt; para las Laptops XO 1.5.&lt;/p&gt;
+
+&lt;p&gt;Hexoquinasa  es una versión actualizada de sistema operativo Sugar, de la cual se  prevee continuar cíclos de actualización, procurando mejorar el  rendimiento, los contenidos y las funcionalidades en las nuevas  versiones.&lt;/p&gt;
+
+&lt;p&gt;Esta es la primera versión del sistema operativo Sugar con acceso integrado a la &lt;strong&gt;RED AZUCAR&lt;/strong&gt; y al sistema &lt;em&gt;sweets&lt;/em&gt; de actualizaciones. Es importante tener en cuenta que por ahora es  necesario contar con conexión a Internet para interactuar en la Red y  ser usuario de Sugar para tener identidad.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;strong&gt;Objetivo: &lt;/strong&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Compartir,  probar, verificar nuevas funcionalidades y reportar anomalías e ideas  en pos de mejorar el desarrollo de la imagen y de la Red misma (mejorar  el sistema). &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;strong&gt;Advertencia:&lt;/strong&gt;&lt;/div&gt;
+
+&lt;p&gt;Hexoquinasa  y la RED AZÚCAR son proyectos de SOFTWARE LIBRE los cuales están en su  fase de desarrollo. Este software es experimental y usted al participar  forma parte de un PROYECTO PILOTO y un caso de estudio e investigación.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Términos de Uso:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;01    Para tener identidad en la Red Azúcar debes ser usuario de la  plataforma  de aprendizaje Sugar, en caso contrario desde Internet todos  tienen acceso al usuario "Demo".&lt;/div&gt;
+
+&lt;div id="magicdomid234"&gt;&lt;/div&gt;
+
+&lt;div&gt;02  Cuando estes dentro del sistema, procura hacer el mejor uso de los recursos que tienes a tu disposición.&lt;/div&gt;
+
+&lt;div id="magicdomid235"&gt;&lt;/div&gt;
+
+&lt;div&gt;03  Considera que la Red Azúcar y sus componentes son Bienes Comunes osea nos pertenecen a todos.&lt;/div&gt;
+
+&lt;div id="magicdomid236"&gt;&lt;/div&gt;
+
+&lt;div&gt;04   Debes usar licencias libres sobre todo el contenido que  publiques (de   conformidad con la Política de Licencias de Sugar Labs).&lt;/div&gt;
+
+&lt;div id="magicdomid237"&gt;&lt;/div&gt;
+
+&lt;div&gt;05  Hay contenidos que NO están permitidos:&lt;/div&gt;
+
+&lt;div id="magicdomid238"&gt;
+
+&lt;ul&gt;
+
+    &lt;li&gt;Contenido Inapropiado (violento, sexual, subversivo, comercial, discriminatorio)&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;div id="magicdomid239"&gt;
+
+&lt;ul&gt;
+
+    &lt;li&gt;Contenido con Licencias Inapropiadas&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;div id="magicdomid240"&gt;
+
+&lt;ul&gt;
+
+    &lt;li&gt;El  software contribuido no debe contener binarios, en cambio, debe  contener las fuentes y las reglas para transformar las fuentes en  binarios.&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;div id="magicdomid241"&gt;06   Al participar en la Red, estás aportando tus estadísticas de uso a la  Investigación y el Desarrollo de  Sistemas Sustentables.&lt;/div&gt;
+
+&lt;div&gt;&lt;/div&gt;
+
+&lt;div id="magicdomid242"&gt;07    El incumplimiento de los términos de uso podrá significar la suspención  del acceso a la Red y/o la eliminación del contendio publicado.&lt;/div&gt;
+
+&lt;p&gt;En términos generales confiamos en los usuarios y resolveremos caso por caso.&lt;/p&gt;
+
+&lt;p&gt;Todo  esto ha sido logrado gracias a la integración de la comunidad y al  trabajo en colaboración con DIGETE y PerúEduca del Ministerio de  Educación de Perú.&lt;/p&gt;
+
+&lt;p&gt;Especial  agradecimiento al Ingeniero Aleksey Lim, líder del equipo de Plataforma  de Sugar Labs Global, quien desde el otro lado del mundo nos asiste con  el desarrollo del motor que hace esto posible.&lt;/p&gt;
+
+&lt;div&gt;Aquí las instrucciones de descarga e instalación:&lt;/div&gt;
+
+&lt;div id="magicdomid251"&gt;&lt;a href="http://pe.sugarlabs.org/go/Proyecto_Piloto_Hexoquinasa/Instalar"&gt;http://pe.sugarlabs.org/go/Proyecto_Piloto_Hexoquinasa/Instalar&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Esperamos contar con su activa participación.&lt;/p&gt;
+
+&lt;p&gt;Equipo de Investigación y Desarrollo SomosAZUCAR&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><category>actualizaxo</category><category>category</category><guid>http://somosazucar.org/posts/2012/07/18/actualiza-xo/index.html</guid><pubDate>Wed, 18 Jul 2012 11:50:18 GMT</pubDate></item></channel></rss>

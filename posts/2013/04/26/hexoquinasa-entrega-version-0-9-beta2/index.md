@@ -1,0 +1,59 @@
+<html><body><a href="/files/2013/04/Captura-de-pantalla-260413-104509.png"><img class="alignright size-medium wp-image-329" title="Captura de pantalla - 260413 - 10:45:09" src="/files/2013/04/Captura-de-pantalla-260413-104509-300x175.png" alt="" width="300" height="175"></a>El equipo SomosAzúcar se complace en presentar a la comunidad la entrega de Hexoquinasa 0.9, versión Beta 2 del sistema operativo Sugar para las laptops XO entregadas por el Ministerio de Educación de Perú.
+
+
+
+La serie 0.x de Hexoquinasa se basa en el Sistema Operativo de OLPC versión 11.3.x el cual hasta la fecha ha demostrado ser el más estable y de mejor rendimiento. Hexoquinasa cuenta con acceso directo a la Red Azúcar, el foro de soporte de la comunidad para la distribución y discusión de software actualizado, contenidos y recursos de aprendizaje.
+
+
+
+Agradecemos a la Dirección General de Tecnologías Educativas del Ministerio de Educación de Perú (DIGETE) por su apoyo a este proyecto que busca aumentar el aprovechamiento tecnológico-pedagógico de las XO, iniciando con la campaña de actualización, "Actualiza XO".
+
+
+
+En esta versión además de múltiples correcciones de fallos, se incluyeron los siguientes ajustes solicitados por los grupos de testeo:
+
+- Ctrl-Alt-Borrar reinicia Sugar otra vez
+
+- Vecindario ya no se llena de otros usuarios
+
+- Se quitó GCompris y Etoys, dejando más de 400MB libres para el usuario en total
+
+- Se incluyó la actividad Agenda de Contactos desarrollada por Ignacio Rodriguez y Rafael Cordano
+
+- El sistema de instalación desde la Red Azúcar ahora soporta instalación de dependencias de paquetes
+
+- El motor de renderizado de HTML de la Red Azúcar se ha migrado de Webkit1 a Gecko (Firefox) - esto para mejorar el rendimiento y la estabilidad
+
+- Sincronización completamente automática de recursos offline al conectar con la red
+
+- El manual de instalación ha sido actualizado
+
+- Correcciones de detalles gráficos y de funcionalidad
+
+
+
+Esta versión puede es considerada BETA 2 y preliminar a la candidata para distribución final, por lo que el equipo agradece a la comunidad su descarga, instalación, y pruebas. Las ideas, problemas y observaciones de la comunidad docente serán muy valiosas para que el equipo pueda mejorar la experiencia de todos los usuarios finales.
+
+
+
+Para usuarios de versiones anteriores, les recordamos que pueden actualizar los paquetes de Hexoquinasa mediante el comando "sudo sweets-distribution sync".
+
+
+
+Descarga directa:
+
+<a href="http://download.sugarlabs.org/hexoquinasa/release/v09/xo1/hxp95.img"> http://download.sugarlabs.org/hexoquinasa/release/v09/xo1/hxp95.img</a>
+
+<a href="http://download.sugarlabs.org/hexoquinasa/release/v09/xo1/fs.zip"> http://download.sugarlabs.org/hexoquinasa/release/v09/xo1/fs.zip</a>
+
+
+
+Instrucciones de Instalación:
+
+<a href="http://pe.sugarlabs.org/go/Proyecto_Piloto_Hexoquinasa/Instalar"> http://pe.sugarlabs.org/go/Proyecto_Piloto_Hexoquinasa/Instalar</a>
+
+
+
+Manual de Instalación:
+
+<a href="http://network.sugarlabs.org/artifacts/download/11f88584ae7211e2bee8525400e4dcb5"> http://network.sugarlabs.org/artifacts/download/11f88584ae7211e2bee8525400e4dcb5</a></body></html>
