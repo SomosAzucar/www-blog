@@ -1,0 +1,109 @@
+<html><body><p>Presenté una version de este informe a la <a title="DIJETE" href="http://www.minedu.gob.pe/digete/">DIGETE</a> (Dirección General de Technologías Educativas) del Ministerio de Educación del Perú para informar sobre el desarrollo de mi investigación de campo del proyecto "una laptop para niño".  Se compila de algunas experiencias y observaciónes, conclusiònes y recomendaciónes. Yo queria compartir estos primeros ideas con ustedes. Unfortunadamente no escibo muy bien en Español, por eso todos mis articulos van a aparecer in Ingles. Les invito a traducirles con quota, porque este investigación quiere ser "<a title="creative commons" href="http://creativecommons.org/licenses/by/3.0/deed.es">creative commons</a>" bajo la condición de atribución.
+
+
+
+I presented a version of this report to the DIGETE (General Department of Educational Technologies), Ministry of Education, Peru to inform them about the development of my investigation and field work of the project "una laptop para niño" (OLPC Peru). It contains experiences, observations, first conclusions and recommendations and is written in English, and open to be translated and used under "<a title="creative commons" href="http://creativecommons.org/licenses/by/3.0/deed.en">creative commons</a>" license, attributing the writer.
+
+
+
+<!--more-->
+
+<strong>Objectives:</strong>
+
+The objective in doing this study was to provide a record about the current situation of the project „una laptop para niño“ from a pedagogical as well as anthropological point of view, meaning that my perspective as researcher would include an account of the local culture and context, as well as teaching methods and the overall situation of education, and I would use methods of anthropologal research. Furthermore I wanted to find out how and what the children are learning while using the XO laptops and what impact the introduction of this technology could have on the community (here I think I can only give some hints, as the effects will be visible in much more time).
+
+
+
+<strong>Activities:</strong>
+
+I visited 12 rural schools in the regions Puno (9 and 4 of them twice) and Madre de Dios (3). The schools in Madre de Dios were so called "one teacher schools". In between I participated in 5 teacher courses, 4 of them organized by the Regional Devision of Education (one was carried out by two Finish volunteers, Kaisa &amp; Tuukka, who are members of "somos azúcar), and a (one-week) course from the Ministry of Education. I interviewed 29 teachers, 8 specialists or members of the different divisions of the Ministry of Education, and had short, structured conversations with 16 parents of school children in the province of Moho, Puno. Furtermore I gathered 31 questionaries of teachers (19 from schools that I have visited) about their general views on
+
+rural education and the use of the XO laptops.
+
+
+
+<strong>Problems &amp; Strategies:</strong>
+
+Despite the help and support that nearly all the teachers and officials offered me, I couldn't reach  the more remote schools. So I couldn't visit any „one-teacher“ schools in Puno, but luckily I visited some in Madre de Dios, near Puerto Maldonado, as nearly all the rural schools there are „unidocentes“. Transport was one of the main problems, but most of the time I went to the schools together with the teachers, which made it a lot easier for me.
+
+Another main problem was the communication with parents with whom in a lot of cases I had great difficulties talking, because I don't speak Aymara, and their Spanish was rather poor. Also most of them didn't have time for long conversations, so that my first efforts were quite disappointing. But finally I found a method to overcome these difficulties by using visual materials and keeping the conversation close to the topics that I had choosen.
+
+During my visits in schools I observed at least one regular class (which not necessarily involved the laptops) to learn about the teaching style of the teachers. Mainly I concentrated on grades 3 to 6 (and left out grades 1 and 2), because there the laptops were being used more frequently and systematically. Then I worked with the children, asking them about their view of school (what they learn there) and about the different activities of the laptop. With the children I used the activity icons as visual materials to facilitate communication and learn about their perception of these icons. During my visits I recorded a great amount of video footage in the classrooms and also copied materials and screenshots of the „diary“ from some of the laptops (at random), to see what activities the children are using, how frequently they are using the laptops and what materials they are producing.
+
+Most of my data still needs to be analysed before I can describe the processes, effects or impact of the project, but there are some observations and a short analysis that I would like to share beforehand.
+
+
+
+<strong>Observations:</strong>
+
+What I can say from my observations is that the laptops have an effect depending on a number circumstances and personal attitudes of the people involved. What arrives to the children and is used as learning opportunity depends on infrastructure, knowledge and the ability of the teacher to search for materials, to creatively use what there is, to contextualize and make things meaningful for the children.  Important points for me are as well the support they get from parents, community and officials, the confidence the teacher has with his knowledge and abilities, the relation between students and teacher, the occupational state of the teacher as contracted (and for a short time in the place) or nominated (and mostly closer to the community). Other influencing factors I see in the time span since the introduction of the laptop, and if they are taken home by the children. And last but not least the general health and wellbeing of the children (in terms of nutrition and their living conditions etc.).
+
+During the classes I visited and in conversations with the teachers I learned about the different ways in which the laptop was used. One of the best examples that I saw was a teacher who used the laptops in each lesson, either as motivation, during the basic part of the lesson, or in the final part extending what the children have learned. Her children of grade 3 and 4 used the laptops with more confidence and understanding than their mates in grade 5 and 6, which really impressed me. There were other good examples that I witnessed were the teachers used the laptops in various ways. Most important is to contextualise and to not only use the laptop just to use it. During classes it can ocupy the place of all kinds of materials and stimulations for the children and can be used for nearly all topics, up to sports. Most of all it is used for writing and mathematics, as these are priorieties in most rural schools. I will compile a list of scenarios that I have witnessed and hope to publish it  with the beginning of the new year.
+
+
+
+<strong>A first Analysis:</strong>
+
+From the questionaries and interviews I learned about point of views of the teachers. Many teachers in the region of Puno mentioned that parents lack interest in the education of their children and there is little communication between school and parents, also there are cases of malnutrition and abandonment. I know that there has been efforts to inform and raise the awareness of people and during my interviews with parents most of them seemed if not interested at least aware of the importance that is given to institucional education in the Peruvian society. As well many say that technology is important although they don't understand it. During my work with the teachers I got the impression that they need good examples at first, to become confident in working with the laptops, some need to learn to explore themselves and of course for many it is a lack of time that keeps them from deepening their knowledge about the laptops. I gave „fichas“ and „fasciculos“ (worksheets) from the Ministry to teachers and during my second visit they told me it had helped them a lot in getting ideas about how to use the laptops in their classes. With the help of these examples  they can have a positive experience and may want to try out more. Many teachers said and wrote in the questionaries that they need more support from the Ministry of Education and local institutions.
+
+Most of the teachers that had used other computers before, said they didn't have such big problems in the basic use of the XO laptops. They mentioned some difficulties with the more complex activities like Tortugarte, Scratch, eToys etc. Nonetheless I have seen some cases where the teacher successfully used the same activities in class, although in general the purposeful pedagogical use needs to be developed much more. Still there are some teachers who did never use a computer before and had great problems with basic functions like entering and leaving the programs. I think it would help very much to ask about their knowledge before a teacher course, to form groups of equal levels and be able to better meet their needs and answer specific questions.
+
+The frequency of use in class is between 1 and 3 times a week, very few teachers really do use the laptops daily. In grades 1 and 2 the laptops are hardly used at all, and teachers told me it is because they are working on basics like reading and writing, in some more abroad regions the children also start learning Spanish and do not understand yet. Still I think the laptops could be used if there was appropriate material. Whether the children take the laptops home depends on how much fear the head master and teachers have to give  them away, how much they trust the people in the region and how much responsability they allow the children. I have seen examples, where the children always take their laptop home, that seemed to function very good. Here I think the exchange of experience can help to overcome fears, establish security systems, and promote more frequent and experienced use of the laptops.
+
+Many children rapidly learn to use the machines and at least the visual materials, like fotos, videos, and drawings that I have seen show a form of expression which certainly forms their identities. There are many games which they love and if they are free to explore, many children try out all the functions, sometimes this may cause chaos, too, and problems for the teachers. If teachers manage not to be afraid and use the functions of the laptop, I see a lot of potential for education. Especially for the „one-teacher“ schools where the laptop can be a very useful tool and material to keep children concentrated doing a task, while one can pay attention to the other children. So during the courses for teachers that work in these kind of schools it is very important to focus on this topic and search for distinct solutions.
+
+One of the questions from my questionaries was about what the teachers wish for their next training course. I want to present answers to that question:
+
+</p><ul>
+
+	<li> the use of the laptops, how to enter and use programs,</li>
+
+	<li> to prepare a class using the laptop,</li>
+
+	<li> more about the pedagogical use and application on the different curricular areas,</li>
+
+	<li> to exchange experiences,</li>
+
+	<li> maintenence of the equipment,</li>
+
+	<li> solution of technical problems,</li>
+
+	<li> work in the Malla networks,</li>
+
+	<li> how to create more programs with the laptop,</li>
+
+	<li> more profound use of activities like Scratch.</li>
+
+</ul>
+
+On the question, which materials and software they want, teachers repeated:
+
+<ul>
+
+	<li> more programs from other  more advanced countries,</li>
+
+	<li> actualization of wikipedia,</li>
+
+	<li> programs according to the curriculum as well as the different grades and levels of the children,</li>
+
+	<li> special programs for mathematics and communication,</li>
+
+	<li> harmonic melodies to engage the childen in singing and folklore,</li>
+
+	<li> materials that contain more local knowledge,</li>
+
+	<li> internet and a CD drive,</li>
+
+	<li> translations of all programs in Spanish.</li>
+
+</ul>
+
+I think what is lacking most are texts for the lessons and in accordance with the curriculum (the schoolbooks are being published by private editors, and cannot be provided digitally for copyright reasons), audio and visual materials. Here I think lies another chance of using the laptop to connect the people, to show them the diverse realities of Peru and eventually for the children to make intercultural experiences and to express themselves. When I was showing fotos, taken by children in Puno, in schools I visited near Puerto Maldonado and vice versa, the children were very excited and interested. What is missing here is the internet connection and a virtual portal for the children to exchange their experiences. While it will most likely take some time until the internet reaches the most distant villages, I think  there can be other forms to exchange this kind of materials and share it with the children, involving the various institutions of Education as transmitters.
+
+
+
+<strong>Some conclusions and suggestions:</strong>
+
+I regard the development of an infrastructure that not only provides access to technology, but access to information and knowledge, as of crucial importance. Also most of the teachers need to solve problems beyond their abilities and knowledge, so they need technical as well as pedagogical support. There need to be established social forms of using the technology, of support and help from within the context, developing local potentials. I have seen a range of scenarios in classes and according to what and how the teachers were using the laptops, children learn differently. Here the main challenge for Education Politics is to train and empower teachers, and establish a  network (virtual as well as physical) of exchange for information and knowledge, experience and endorsement.
+
+Working with the children I found that there are plenty of possibilities to encourage them for learning. To me it is very important to let them explore, and give detailed instructions working with concrete tasks in the right moment. Sometimes it is important to explain to each child individually and in general to let them ask questions and help each other. When the children are confident and encouraged in their curiosity, there is a lot of teaching and learning between themselves.</body></html>

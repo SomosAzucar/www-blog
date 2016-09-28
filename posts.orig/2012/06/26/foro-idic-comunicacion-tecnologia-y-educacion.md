@@ -1,0 +1,1 @@
+<html><body><a href="/files/2012/06/Afiche_idic.gif"><img src="/files/2012/06/Afiche_idic-716x1024.gif" alt="Foro Idic" title="Afiche_idic" width="716" height="1024" class="aligncenter size-large wp-image-242"></a></body></html>

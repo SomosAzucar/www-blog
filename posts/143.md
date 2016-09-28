@@ -1,0 +1,1 @@
+<html><body><p>Our ultimate goal is to save the Rainforest by seeding key technology like children's laptops, cameras, mesh community networks and free software into primary schools located in sensitive regions like river basins, large mining sites, country borders and others along the entire Amazon region. </p></body></html>
