@@ -13,7 +13,7 @@ before_install:
 - git config --global user.name 'Travis CI'
 - git config --global user.email 'travis@invalid'
 - git config --global push.default 'simple'
-- pip install --upgrade pip wheel
+- pip install --upgrade pip wheel setuptools
 - echo -e 'Host github.com\n    StrictHostKeyChecking no' >> ~/.ssh/config
 - eval "$(ssh-agent -s)"
 - chmod 600 id_rsa
