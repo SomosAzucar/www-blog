@@ -16,7 +16,7 @@ Saludamos a la nación Yanomami por el lanzamiento, el 12 de Octubre de 2016, de
 ¿De qué otra forma podría uno tener la experiencia de personificar a un joven hermano de la tribu, escalando por árboles y persiguiendo al gran pájaro que se robó el fuego? Todo esto con sonidos de la selva en un juego hecho en forma impecable.
 Relata en tres etapas siendo la primera la leyenda de *Iwariwë*, sobre el origen del fuego, seguida de *Oronami*, que tiene que ver con el cultivo del plátano, y finalmente la tercera etapa toca el tema de la integración entre la medicina tradicional y la medicina occidental, planteando una posición de apertura, mutuo entendimiento y aprendizaje.
 
-<font size="+4"> Es un mensaje hermoso, ejecutado con gran arte, donde se nota el cariño y la guía de los abuelos. </font>
+<font size="+2"> Es un mensaje hermoso, ejecutado con gran arte, donde se nota el cariño y la guía de los abuelos. </font>
 
 También es un juego de plataformas divertido, de última generación, cuya gráfica está hecha en 2D con estilo animado por secciones, efectos de luz y una narrativa interesante. Es algo difícil lo cual resulta un desafío entretenido del cual es difícil despegarse.
 
