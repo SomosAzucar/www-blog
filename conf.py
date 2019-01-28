@@ -131,8 +131,8 @@ NAVIGATION_LINKS = {
         ("http://chat.somosazucar.org/", "Chat #somosazucar"),
         ("http://lists.sugarlabs.org/listinfo/sugar-sur", "Lista sugar-sur"),
         ("/archive.html", "Histórico"),
-        #("/categories/index.html", "Tags"),
-        #("/rss.xml", "RSS"),
+        # ("/categories/index.html", "Tags"),
+        # ("/rss.xml", "RSS"),
     ),
 }
 
@@ -670,11 +670,11 @@ DEPLOY_COMMANDS = {
 
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
-# GITHUB_SOURCE_BRANCH = 'master'
-# GITHUB_DEPLOY_BRANCH = 'gh-pages'
+GITHUB_SOURCE_BRANCH = 'master'
+GITHUB_DEPLOY_BRANCH = 'gh-pages'
 
 # The name of the remote where you wish to push to, using github_deploy.
-# GITHUB_REMOTE_NAME = 'origin'
+GITHUB_REMOTE_NAME = 'origin'
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
@@ -848,7 +848,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # vs
 # xcode
 # This list MAY be incomplete since pygments adds styles every now and then.
-# CODE_COLOR_SCHEME = 'default'
+CODE_COLOR_SCHEME = 'default'
 
 # If you use 'site-reveal' theme you can select several subthemes
 # THEME_REVEAL_CONFIG_SUBTHEME = 'sky'
@@ -1045,7 +1045,7 @@ PRETTY_URLS = True
 # Note: most Nikola-specific extensions are done via the Nikola plugin system,
 #       with the MarkdownExtension class and should not be added here.
 # The default is ['fenced_code', 'codehilite']
-MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
+MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite']
 
 # Extra options to pass to the pandoc comand.
 # by default, it's empty, is a list of strings, for example
