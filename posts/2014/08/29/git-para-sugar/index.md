@@ -1,4 +1,4 @@
-<html><body><p>Hace un mes leí un <a href="http://therealkatie.net/blog/2014/jul/14/flask-git-easiest-workshop-ever/">artículo brillante</a> de Katie Cunningham donde ella describía parte de su estrategia para realizar talleres de Python. Dedicándome últimamente con mucha pasión a esta actividad, pero con grupos objetivo diferentes (yo enseño a niños), tomé nota de sus experiencias y sobretodo me pareció que el uso que daba a la herramienta Git era brillante.
+<html><body><p>Hace un mes leí un <a href="https://www.goodreads.com/author_blog_posts/6644504-flask-git-easiest-workshop-ever">artículo brillante</a> de Katie Cunningham donde ella describía parte de su estrategia para realizar talleres de Python. Dedicándome últimamente con mucha pasión a esta actividad, pero con grupos objetivo diferentes (yo enseño a niños), tomé nota de sus experiencias y sobretodo me pareció que el uso que daba a la herramienta Git era brillante.
 
 
 

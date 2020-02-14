@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tecnología Libre para la Educación Pública (convocatoria)</title><link>http://somosazucar.org/</link><description></description><atom:link href="http://somosazucar.org/categories/convocatoria.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 28 Sep 2016 06:52:24 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Sugar Camp Lima 2011</title><link>http://somosazucar.org/posts/2011/11/02/sugar-camp-lima-2011/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;[gallery]&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Tecnología Libre para la Educación Pública (Publicaciones sobre convocatoria)</title><link>https://somosazucar.org/</link><description></description><atom:link href="https://somosazucar.org/categories/convocatoria.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Fri, 14 Feb 2020 03:50:22 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Sugar Camp Lima 2011</title><link>https://somosazucar.org/posts/2011/11/02/sugar-camp-lima-2011/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;[gallery]&lt;/p&gt;
 &lt;p&gt;El 18 y 19 de Noviembre de 2011, nos reunimos en Lima con el propósito de confeccionar entre todos&lt;/p&gt;
 &lt;p&gt;una imagen actualizada de sistema operativo con entorno de aprendizaje Sugar/Azúcar, adaptada&lt;/p&gt;
 &lt;p&gt;para los niños del programa Una Laptop Por Niñode la región de &lt;em&gt;Puno&lt;/em&gt; Perú.&lt;/p&gt;
@@ -14,7 +14,7 @@
 &lt;p&gt;Esta es una iniciativa de somosAZUCAR.org,&lt;/p&gt;
 &lt;p&gt;laboratorio local de Sugar Labs en Perú &lt;/p&gt;
 &lt;p&gt;Visita el &lt;a href="http://sugarcamp.somosazucar.org/"&gt;sitio dedicado del evento&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;[todo: Galeria de imágenes Sugarcamp Lima 2011]&lt;/p&gt;&lt;/div&gt;</description><category>category</category><category>convocatoria</category><category>sugarcamp</category><guid>http://somosazucar.org/posts/2011/11/02/sugar-camp-lima-2011/index.html</guid><pubDate>Thu, 03 Nov 2011 04:45:34 GMT</pubDate></item><item><title>Convocatoria Somos-Azúcar 03</title><link>http://somosazucar.org/posts/2010/04/21/convocatoria-somos-azucar-03/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt; &lt;/div&gt;
+&lt;p&gt;[todo: Galeria de imágenes Sugarcamp Lima 2011]&lt;/p&gt;&lt;/div&gt;</description><category>category</category><category>convocatoria</category><category>sugarcamp</category><guid>https://somosazucar.org/posts/2011/11/02/sugar-camp-lima-2011/index.html</guid><pubDate>Thu, 03 Nov 2011 04:45:34 GMT</pubDate></item><item><title>Convocatoria Somos-Azúcar 03</title><link>https://somosazucar.org/posts/2010/04/21/convocatoria-somos-azucar-03/index.html</link><dc:creator>equipo I+D somosazucar</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt; &lt;/div&gt;
 &lt;div&gt;Favor Difundir: Sábado 24 de Abril - 6:00.PM&lt;/div&gt;
 
 &lt;div&gt;FLISOL 2010&lt;/div&gt;
@@ -77,7 +77,7 @@
 
 &lt;ul&gt;
 
-    &lt;li&gt;Lanzamiento de sitio web: &lt;a href="http://somosazucar.org/posts/2010/04/21/" target="_blank"&gt;http://somosazucar.org/&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Lanzamiento de sitio web: &lt;a href="https://somosazucar.org/posts/2010/04/21/" target="_blank"&gt;http://somosazucar.org/&lt;/a&gt;&lt;/li&gt;
 
 &lt;/ul&gt;
 
@@ -123,4 +123,4 @@
 
 &lt;/div&gt;
 
-&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><category>category</category><category>convocatoria</category><category>flisol</category><guid>http://somosazucar.org/posts/2010/04/21/convocatoria-somos-azucar-03/index.html</guid><pubDate>Thu, 22 Apr 2010 04:57:12 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><category>category</category><category>convocatoria</category><category>flisol</category><guid>https://somosazucar.org/posts/2010/04/21/convocatoria-somos-azucar-03/index.html</guid><pubDate>Thu, 22 Apr 2010 04:57:12 GMT</pubDate></item></channel></rss>
