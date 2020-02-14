@@ -21,7 +21,7 @@ BLOG_AUTHOR = "equipo I+D somosazucar"  # (translatable)
 BLOG_TITLE = "Tecnología Libre para la Educación Pública"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://somosazucar.org/"
+SITE_URL = "https://somosazucar.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://somosazucar.org/"
@@ -129,7 +129,6 @@ NAVIGATION_LINKS = {
         ("http://pe.sugarlabs.org/ir/", "Wiki Laboratorios Azúcar"),
         ("http://network.sugarlabs.org/about/?returnto=http://network.sugarlabs.org/", "Demo Red Azúcar"),
         ("http://chat.somosazucar.org/", "Chat #somosazucar"),
-        ("http://lists.sugarlabs.org/listinfo/sugar-sur", "Lista sugar-sur"),
         ("/archive.html", "Histórico"),
         # ("/categories/index.html", "Tags"),
         # ("/rss.xml", "RSS"),
@@ -903,10 +902,10 @@ LICENSE = ""
 # I recommend using the Creative Commons' wizard:
 # http://creativecommons.org/choose/
 LICENSE = """
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ar/">
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/2.5/ar/">
 <img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
+src="https://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
